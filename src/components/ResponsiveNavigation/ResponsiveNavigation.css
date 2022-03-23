@@ -1,0 +1,21 @@
+.ResponsiveNavigation {
+	display: flex;
+	width: 100%;
+	background: rgba(15, 15, 15, 0.952);
+}
+
+.ResponsiveNavigationContainer {
+	display: flex;
+	width: 100%;
+	justify-content: space-around;
+	font-family: 'Roboto', sans-serif;
+}
+
+.fa-cart-shopping {
+	margin-right: 7px;
+}
+
+.logoNav{
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}

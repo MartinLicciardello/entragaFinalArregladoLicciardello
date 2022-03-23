@@ -1,0 +1,12 @@
+.CardListContainer {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 20px;
+
+}
+
+.Spinner {
+	display: flex;
+	justify-content: center;
+	margin: 40px;
+}
